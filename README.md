@@ -165,7 +165,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg
+[Next.js]: https://img.shields.io/badge/-Node.js-brightgreen
 [Next-url]: https://nextjs.org/
 [Nodejs-url]: https://nodejs.org/en
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
